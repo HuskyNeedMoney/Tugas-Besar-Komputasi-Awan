@@ -52,10 +52,10 @@ kalian bisa download repo ini ke file manager kalian.
 
 ### 2. Terminal (powershell atau yang lain)
 cd ...(rootkalian)/TUBES_CLOUD_COMPUTING/
-vagrant up
-jika sudah vagrant up check status vm yang berjalan di folder ini
-vagrant global-status
-jika ke tiga vm berjalan (backend,frontend,database) berjalan langsung saja buka browserkalian dan buka
+vagrant up\n
+jika sudah vagrant up check status vm yang berjalan di folder ini\n
+vagrant global-status \n
+jika ke tiga vm berjalan (backend,frontend,database) berjalan langsung saja buka browserkalian dan buka 192.168.56.12
 
 
 
